@@ -12,7 +12,7 @@ Get `converted.pdf` at the current directory which is your pdf converted file.
 
 ## 2. PDF Merger
 
-> ### A simple python program to list of pdf files to single pdf
+> ### A simple python program to Merge list of pdf files to single pdf
 
 Use `ToBeMerged` folder to store the list of images to be converted.
 
