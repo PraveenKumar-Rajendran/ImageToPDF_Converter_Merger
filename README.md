@@ -28,7 +28,7 @@
 
 - `ToBeConverted` & `ToBeMerged` folders are used to hold your input files.
 
-- Run either 'ImageToPdf_Converter.exe' or 'Pdf_merger.exe' according to your need.
+- Run either 'ImageToPdf_Converter'.'exe' or 'Pdf_merger'.'exe' according to your need.
 
 - Obtain either **converted.pdf** or **merged.pdf** in the same directory, depending on the application you ran.
 
