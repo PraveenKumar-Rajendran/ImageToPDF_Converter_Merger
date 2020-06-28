@@ -24,11 +24,17 @@
 
 - Executables are created using **PyInstaller**
 
-- To use the application directly download **Standalone_Executable_PDF_Converter_and_Merger** Folder.
+- To use the application directly download **Standalone_Executable_PDF_Converter_and_Merger** directory.
 
 - `ToBeConverted` & `ToBeMerged` folders are used to hold your input files.
 
 - Run either 'ImageToPdf_Converter.exe' or 'Pdf_merger.exe' according to your need.
+
+- Obtain either **converted.pdf** or **merged.pdf** in the same directory, depending on the application you ran.
+
+> If you found this useful for yourself, star this repo.
+
+## Thank you
 
 
 
