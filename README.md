@@ -20,6 +20,17 @@ Run `Pdf_merger.py` To perform the Merge operation.
 
 Get `merged.pdf` at the current directory which is your merged file.
 
+# 3. Deployment
+
+Executables are created using ###PyInstaller
+
+To use the application directly download ###Standalone_Executable_PDF_Converter_and_Merger Folder.
+
+`ToBeConverted` & `ToBeMerged` folders are used to hold your input files.
+
+Run either 'ImageToPdf_Converter.exe' or 'Pdf_merger.exe' according to your need.
+
+
 
 
 
