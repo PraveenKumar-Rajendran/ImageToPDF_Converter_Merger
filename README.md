@@ -1,12 +1,27 @@
 # ImageToPDF_Converter_Merger
 
-> A simple python program to convert list of images to single pdf
+## Image To PDF Converter
+
+> ### 1. A simple python program to convert list of JPG files to single PDF
 
 Use `ToBeConverted` folder to store the list of images to be converted.
 
 Run `ImageToPdf_Converter.py` To perform the conversion.
 
 Get `converted.pdf` at the current directory which is your pdf converted file.
+
+## PDF Merger
+
+> ### 2. A simple python program to list of pdf files to single pdf
+
+Use `ToBeMerged` folder to store the list of images to be converted.
+
+Run `ImageToPdf_Converter.py` To perform the Merge operation.
+
+Get `merged.pdf` at the current directory which is your merged file.
+
+
+
 
 
 
