@@ -16,7 +16,7 @@ Get `converted.pdf` at the current directory which is your pdf converted file.
 
 Use `ToBeMerged` folder to store the list of images to be converted.
 
-Run `ImageToPdf_Converter.py` To perform the Merge operation.
+Run `Pdf_merger.py` To perform the Merge operation.
 
 Get `merged.pdf` at the current directory which is your merged file.
 
